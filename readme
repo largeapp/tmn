@@ -5,3 +5,6 @@ Our research collection on artificial intelligence, including explainable artifi
 ### Publications        
 See the following publications for examples of this code in use:
 * Jinlong Hu, Jianmiao Luo, Jiatong Huang, Shoubin Dong, Bin Liao, "TMN: Learning multi-timescale functional connectivity for identifying brain disorders," under reviewed.
+
+## Codes
+- `tmn_main.py`: The mian file of the proposed approach `TMN` for Learning multi-timescale functional connectivity. 
